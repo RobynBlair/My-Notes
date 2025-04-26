@@ -2,4 +2,4 @@
 
 A place to put things only I want to see.
 
-Emojis:
+Emojis: https://emojidb.org/
