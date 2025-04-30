@@ -32,8 +32,12 @@ A place to put things I want to share.
 - Laptop with Studio One
 - Presonus Atom SQ
 - USB/MIDI Converter
+- Rode USB Microphone
 
 # Musical Instruments I Want
 
 - D minor handpan drum
 - Digital cello
+- Looper
+- Sound interface
+- 
