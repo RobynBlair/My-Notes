@@ -24,3 +24,16 @@ A place to put things I want to share.
 - Gretch guitar
 - Ibanez guitar
 - Hand drum
+- 88 key MIDI keyboard
+- Mouth organ
+- Musical saw
+- Guitar amp
+- Mini pedals
+- Laptop with Studio One
+- Presonus Atom SQ
+- USB/MIDI Converter
+
+# Musical Instruments I Want
+
+- D minor handpan drum
+- Digital cello
