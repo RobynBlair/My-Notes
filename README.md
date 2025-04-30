@@ -38,6 +38,5 @@ A place to put things I want to share.
 
 - D minor handpan drum
 - Digital cello
-- Looper
-- Sound interface
-- 
+- Boss Looper
+- Audio interface
