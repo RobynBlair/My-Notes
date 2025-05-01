@@ -40,3 +40,4 @@ A place to put things I want to share.
 - Digital cello
 - Boss Looper
 - Audio interface
+- Guitar pedal
