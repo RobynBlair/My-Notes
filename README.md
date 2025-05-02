@@ -6,7 +6,6 @@ A place to put things I want to share.
 
 
 # My Websites
-
 - https://www.SandAngel.com
 - https://www.Bigrex.com
 - https://www.RobynsLair.com
@@ -20,7 +19,6 @@ A place to put things I want to share.
 - Project Open Sea - Seaport: https://github.com/ProjectOpenSea/seaport
   
 # Musical Instruments To Use
-
 - Gretch guitar
 - Ibanez guitar
 - Hand drum
@@ -35,9 +33,18 @@ A place to put things I want to share.
 - Rode USB Microphone
 
 # Musical Instruments I Want
-
 - D minor handpan drum
 - Digital cello
 - Boss Looper
 - Audio interface
 - Guitar pedal
+
+# MF Lane
+- Process
+- Consistency
+
+# Apps
+- Finch
+
+# Potential Apps
+- MF Lane - What process do you want to learn?
