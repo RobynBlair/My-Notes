@@ -11,6 +11,10 @@ A place to put things I want to share.
 - https://www.RobynsLair.com
 - https://www.RobynsLair.shop
 
+# Immediate Projects
+- Update BigRex.com
+- Plan Big Rex Staffing Project
+
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
 - Dune Analytics Docs: https://github.com/duneanalytics/dune-docs
