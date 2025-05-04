@@ -13,7 +13,7 @@ A place to put things I want to share.
 
 # Immediate Projects
 - Update BigRex.com
-- Plan Big Rex Staffing Project
+- Planning Big Rex Staffing Project
 
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
