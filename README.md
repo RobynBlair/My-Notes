@@ -3,6 +3,7 @@
 A place to put things I want to share.
 
 - Emojis: https://emojidb.org/
+- MD Markup: https://www.markdownguide.org/basic-syntax/
 
 
 # My Websites
@@ -52,3 +53,4 @@ A place to put things I want to share.
 
 # Potential Apps
 - MF Lane - What process do you want to learn?
+- Big Rex Software - Staffing Project
