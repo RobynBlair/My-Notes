@@ -8,6 +8,7 @@ A place to put things I want to share.
 
 # My Websites
 - https://www.SandAngel.com
+- https://www.SandAngel.com/resume.txt
 - https://www.Bigrex.com
 - https://www.RobynsLair.com
 - https://www.RobynsLair.shop
