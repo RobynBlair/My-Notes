@@ -13,7 +13,7 @@ A place to put things I want to share.
 - https://www.RobynsLair.com
 - https://www.RobynsLair.shop
 
-# Immediate Projects
+# Current Projects
 - Update BigRex.com
 - Planning Big Rex Staffing Project
 - Robyn's Lair - Daily product designs
