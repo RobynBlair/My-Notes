@@ -83,6 +83,7 @@ A place to put things I want to share.
 -- Scrapbook/Collage
 -- Ink Trap and Wobbly Fonts
 -- Doodles/Naive Style Design
+- The ONLY Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE
 
 # Document on YouTube
 
