@@ -83,7 +83,7 @@ A place to put things I want to share.
 -- Scrapbook/Collage
 -- Ink Trap and Wobbly Fonts
 -- Doodles/Naive Style Design
-- The ONLY Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
+- The Onlu Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
 
 # Document on YouTube
