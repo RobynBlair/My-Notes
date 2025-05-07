@@ -55,6 +55,11 @@ A place to put things I want to share.
 - Process
 - Consistency
 
+# Spanish
+- https://www.telemundo.com
+- Solito
+- Photo translate app $40
+
 # Apps
 - Finch
 
