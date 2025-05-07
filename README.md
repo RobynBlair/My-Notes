@@ -72,12 +72,12 @@ A place to put things I want to share.
 -- Pop Culture References
 -- Create Optical Illusions
 -- Copyright-free Design Tools
-- 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc
-  -- Minimal type
-  -- Utilitarian
-  -- Surrealism
-  -- Bento Grids
-  -- 
+- 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc - Kittl
+-- Minimal type
+-- Utilitarian
+-- Surrealism
+-- Bento Grids
+-- Gradient Shapes
 
 # Document on YouTube
 
