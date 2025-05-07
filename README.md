@@ -62,6 +62,16 @@ A place to put things I want to share.
 
 # Product Design
 - 10 Expert T-Shirt Design Hacks in 5 Minutes - https://www.youtube.com/watch?v=XPBCyFwqIgA
+-- Use Negative Space
+-- Typography
+-- Gradients
+-- Distressed Effects
+-- Incorporating Geometric Shapes
+-- Hand Drawn Elements
+-- Minimalism
+-- Pop Culture References
+-- Create Optical Illusions
+-- Copyright-free Design Tools
 
 # Document on YouTube
 
