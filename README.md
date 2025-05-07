@@ -45,6 +45,12 @@ A place to put things I want to share.
 - Audio interface
 - Guitar pedal
 
+# Real Estate
+- https://map.reventure.app/dashboard
+
+# Digital Nomad
+- https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/high-skilled-workers.html
+
 # MF Lane
 - Process
 - Consistency
