@@ -85,6 +85,7 @@ A place to put things I want to share.
 -- Doodles/Naive Style Design
 - The Onlu Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
+- Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
 
 # Document on YouTube
 
