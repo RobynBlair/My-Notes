@@ -17,7 +17,7 @@ A place to put things I want to share.
 - Update BigRex.com
 - Pbol - Western boy Run registration site
 - Kendahl/Dani wedding photo editing
-- Planning Big Rex Staffing Project
+- Planning Big Rex Staffing website project
 - Robyn's Lair - Daily product designs
 
 
