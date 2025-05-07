@@ -80,6 +80,9 @@ A place to put things I want to share.
 -- Gradient Shapes
 -- 3D Objects and Motion Design
 -- Rugged/Sustainable
+-- Scrapbook/Collage
+-- Ink Trap and Wobbly Fonts
+-- Doodles/Naive Style Design
 
 # Document on YouTube
 
