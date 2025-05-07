@@ -73,6 +73,11 @@ A place to put things I want to share.
 -- Create Optical Illusions
 -- Copyright-free Design Tools
 - 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc
+  -- Minimal type
+  -- Utilitarian
+  -- Surrealism
+  -- Bento Grids
+  -- 
 
 # Document on YouTube
 
