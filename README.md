@@ -78,6 +78,8 @@ A place to put things I want to share.
 -- Surrealism
 -- Bento Grids
 -- Gradient Shapes
+-- 3D Objects and Motion Design
+-- Rugged/Sustainable
 
 # Document on YouTube
 
