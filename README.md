@@ -72,6 +72,7 @@ A place to put things I want to share.
 -- Pop Culture References
 -- Create Optical Illusions
 -- Copyright-free Design Tools
+- 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc
 
 # Document on YouTube
 
