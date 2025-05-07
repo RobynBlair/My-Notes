@@ -60,6 +60,11 @@ A place to put things I want to share.
 - Solito
 - Photo translate app $40
 
+# Product Design
+- 10 Expert T-Shirt Design Hacks in 5 Minutes - https://www.youtube.com/watch?v=XPBCyFwqIgA
+
+# Document on YouTube
+
 # Apps
 - Finch
 
