@@ -62,6 +62,9 @@ A place to put things I want to share.
 # Spanish
 - https://www.telemundo.com
 - Solito
+- Grammer books
+- Graphical vocabulary
+- Stephen King
 - Photo translate app $40
 
 # Product Design
