@@ -64,7 +64,7 @@ A place to put things I want to share.
 - Solito
 - Grammer books
 - Graphical vocabulary
-- Stephen King
+- Stephen King - Stories in the dark
 - Photo translate app $40
 
 # Product Design
