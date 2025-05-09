@@ -86,12 +86,14 @@ A place to put things I want to share.
 - Photo translate app $40
 
 # Product Design
+- Next Steps:
 - Cleanup designs to have four of each
 - Order a test batch, one of each type in different designs I would use
 - Keep making designs. Add gothy stuff too.
 - Post on Facebook. Hint at on AZRaveFam
 - Consider FB ads
-- 
+
+- Sites:
 - Printful - https://www.printful.com/dashboard/product-templates
 - Robyn's Lair Shop - https://robynslair.shop/
 - Robyn's Lair Shopify - https://admin.shopify.com/
