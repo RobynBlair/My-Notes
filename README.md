@@ -29,7 +29,11 @@ A place to put things I want to share.
 - Project Open Sea - Seaport: https://github.com/ProjectOpenSea/seaport
 
 # Guitar Lessons
-- https://www.martymusic.com/free-courses
+- Marty Music Free Courses - https://www.martymusic.com/free-courses
+- Marty Music - G Major - https://www.youtube.com/watch?v=hb9G4EqA-LI
+- Marty Music - D Major - https://www.youtube.com/watch?v=l2Ioh1iw8DE
+- Acoustic Selection: https://www.youtube.com/@acousticselection
+- Acoustic Selection First 3 Chords - https://www.youtube.com/watch?v=d52MZJw-hIE
   
 # Musical Instruments To Use
 - Gretch guitar
