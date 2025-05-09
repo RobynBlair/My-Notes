@@ -42,6 +42,7 @@ A place to put things I want to share.
 - Marty Music - Strumming Pattern 4 - https://www.youtube.com/watch?v=4_oGCqR0rn8
 - Marty Music - Strumming Pattern 5 - https://www.youtube.com/watch?v=5bf89vNRqA8
 - Marty Music - Wonderwall - https://www.youtube.com/watch?v=MDaaX2TSo10
+- Oasis - Wonderwall (Official Video) - https://www.youtube.com/watch?v=6hzrDeceEKc
 - Acoustic Selection: https://www.youtube.com/@acousticselection
 - Acoustic Selection First 3 Chords - https://www.youtube.com/watch?v=d52MZJw-hIE
   
