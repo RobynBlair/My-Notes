@@ -27,6 +27,9 @@ A place to put things I want to share.
 - Duniversity: https://dune.com/duniversity
 - Project Open Sea: https://github.com/projectopensea
 - Project Open Sea - Seaport: https://github.com/ProjectOpenSea/seaport
+
+# Guitar Lessons
+- https://www.martymusic.com/free-courses
   
 # Musical Instruments To Use
 - Gretch guitar
