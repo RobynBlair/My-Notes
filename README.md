@@ -22,7 +22,7 @@ A place to put things I want to share.
 
 # Product Design
 - Next Steps:
-- Cleanup designs to have four of each
+- Cleanup designs to have four of each. Finish Fyre products.
 - Order a test batch, one of each type in different designs I would use
 - Keep making designs. Add gothy stuff too.
 - Post on Facebook. Hint at on AZRaveFam
