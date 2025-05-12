@@ -20,9 +20,11 @@ A place to put things I want to share.
 - Planning Big Rex Staffing website project
 - Robyn's Lair - Daily product designs
 
-# Product Design
+# Robyn's Lair Shop - Product Design
+- https://www.RobynsLair.shop
 - Next Steps:
-- Cleanup designs to have four of each. Finish Fyre products.
+- Done. Cleanup designs to have four of each. Finish Fyre products.
+- Add a couple more new designs.
 - Order a test batch, one of each type in different designs I would use
 - Keep making designs. Add gothy stuff too.
 - Post on Facebook. Hint at on AZRaveFam
