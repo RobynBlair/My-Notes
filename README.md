@@ -15,7 +15,7 @@ A place to put things I want to share.
 
 # Current Projects
 - Update BigRex.com
-- Pbol - Western boy Run registration site
+- Pbol - Western boy Run registration site - almost done. Maybe rework the stylesheet.
 - Kendahl/Dani wedding photo editing
 - Planning Big Rex Staffing website project
 - Robyn's Lair - Daily product designs
