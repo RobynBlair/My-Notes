@@ -77,14 +77,6 @@ A place to put things I want to share.
 - Oasis - Wonderwall (Official Video) - https://www.youtube.com/watch?v=6hzrDeceEKc
 - Acoustic Selection: https://www.youtube.com/@acousticselection
 - Acoustic Selection First 3 Chords - https://www.youtube.com/watch?v=d52MZJw-hIE
-
-# Spanish
-- https://www.telemundo.com
-- Solito
-- Grammer books
-- Graphical vocabulary
-- Stephen King - Stories in the dark
-- Photo translate app $40
   
 # Musical Instruments To Use
 - Gretch guitar
@@ -106,6 +98,15 @@ A place to put things I want to share.
 - Boss Looper
 - Audio interface
 - Guitar pedal
+
+# Spanish
+- https://www.telemundo.com
+- Solito
+- Grammer books
+- Graphical vocabulary
+- Stephen King - Stories in the dark
+- Photo translate app $40
+- Netflix Spanish subtitles
 
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
