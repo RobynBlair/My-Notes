@@ -60,13 +60,6 @@ A place to put things I want to share.
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
 - Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
 
-# Dune Analytics
-- Dune Analytics: https://github.com/duneanalytics
-- Dune Analytics Docs: https://github.com/duneanalytics/dune-docs
-- Duniversity: https://dune.com/duniversity
-- Project Open Sea: https://github.com/projectopensea
-- Project Open Sea - Seaport: https://github.com/ProjectOpenSea/seaport
-
 # Guitar Lessons
 - Marty Music Free Courses - https://www.martymusic.com/free-courses
 - Marty Music - G Major - https://www.youtube.com/watch?v=hb9G4EqA-LI
@@ -113,6 +106,13 @@ A place to put things I want to share.
 - Boss Looper
 - Audio interface
 - Guitar pedal
+
+# Dune Analytics
+- Dune Analytics: https://github.com/duneanalytics
+- Dune Analytics Docs: https://github.com/duneanalytics/dune-docs
+- Duniversity: https://dune.com/duniversity
+- Project Open Sea: https://github.com/projectopensea
+- Project Open Sea - Seaport: https://github.com/ProjectOpenSea/seaport
 
 # Real Estate
 - https://map.reventure.app/dashboard
