@@ -100,6 +100,7 @@ A place to put things I want to share.
 - Guitar pedal
 
 # Spanish
+- https://www.dreamingspanish.com/teachers
 - https://www.telemundo.com
 - Solito
 - Grammer books
