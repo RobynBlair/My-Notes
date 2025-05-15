@@ -12,6 +12,7 @@ A place to put things I want to share.
 - https://www.Bigrex.com
 - https://www.RobynsLair.com
 - https://www.RobynsLair.shop
+- https://soundcloud.com/robyn-blair-451948331
 
 # Current Projects
 - Update BigRex.com
