@@ -16,11 +16,9 @@ A place to put things I want to share.
 - https://dot.cards/robynblair
 
 # Current Projects
-- Update BigRex.com
-- Pbol - Western boy Run registration site - almost done. Maybe rework the stylesheet.
-- Kendahl/Dani wedding photo editing
 - Planning Big Rex Staffing website project
 - Robyn's Lair - Daily product designs
+- Rekordbox and Soundcloud experiments
 
 # Robyn's Lair Shop - Product Design
 - https://www.RobynsLair.shop
