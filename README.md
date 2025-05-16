@@ -17,6 +17,7 @@ A place to put things I want to share.
 
 # Current Projects
 - Planning Big Rex Staffing website project
+- Learn Blazor and LaTeX
 - Robyn's Lair - Daily product designs
 - Rekordbox and Soundcloud experiments
 
