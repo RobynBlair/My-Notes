@@ -107,7 +107,7 @@ A place to put things I want to share.
 
 # Spanish
 - https://www.dreamingspanish.com/teachers
-- https://www.telemundo.com
+- https://lingopie.com/app/catalog/spanish
 - Solito
 - Grammer books
 - Graphical vocabulary
