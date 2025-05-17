@@ -84,6 +84,7 @@ A place to put things I want to share.
 - https://dj.tribexr.com/
   
 # Musical Instruments To Use
+- Pioneer DDJ-FLX4
 - Gretch guitar
 - Ibanez guitar
 - Hand drum
