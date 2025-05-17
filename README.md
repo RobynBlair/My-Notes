@@ -78,6 +78,10 @@ A place to put things I want to share.
 - Oasis - Wonderwall (Official Video) - https://www.youtube.com/watch?v=6hzrDeceEKc
 - Acoustic Selection: https://www.youtube.com/@acousticselection
 - Acoustic Selection First 3 Chords - https://www.youtube.com/watch?v=d52MZJw-hIE
+
+# DJ
+
+- https://dj.tribexr.com/
   
 # Musical Instruments To Use
 - Gretch guitar
