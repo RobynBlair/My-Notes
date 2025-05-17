@@ -25,7 +25,7 @@ A place to put things I want to share.
 - https://www.RobynsLair.shop
 - Next Steps:
 - Done. Cleanup designs to have four of each. Finish Fyre products.
-- Add a couple more new designs.
+- IP. Add a couple more new designs.
 - Order a test batch, one of each type in different designs I would use
 - Keep making designs. Add gothy stuff too.
 - Post on Facebook. Hint at on AZRaveFam
