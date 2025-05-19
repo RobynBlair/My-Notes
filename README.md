@@ -111,7 +111,6 @@ A place to put things I want to share.
 - Graphical vocabulary
 - Stephen King - Stories in the dark
 - Photo translate app $40
-- Netflix Spanish subtitles
 
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
