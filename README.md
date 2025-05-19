@@ -68,7 +68,7 @@ A place to put things I want to share.
 - Marty Music - F Major - https://www.youtube.com/watch?v=yrn3kbBaOMI
 - Marty Music - D Minor - https://www.youtube.com/watch?v=GlN76a1_Hig
 - Marty Music - Strumming Pattern 1 - D D DU DU - https://www.youtube.com/watch?v=ely9LaJJJr4
-- Marty Music - Strumming Pattern 2 - https://www.youtube.com/watch?v=hM9lEotHlxQ
+- Marty Music - Strumming Pattern 2 - DUD U U UDU - https://www.youtube.com/watch?v=hM9lEotHlxQ
 - Marty Music - Strumming Pattern 3 - https://www.youtube.com/watch?v=wtxguMdxc1Y
 - Marty Music - Strumming Pattern 4 - https://www.youtube.com/watch?v=4_oGCqR0rn8
 - Marty Music - Strumming Pattern 5 - https://www.youtube.com/watch?v=5bf89vNRqA8
