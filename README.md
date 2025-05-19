@@ -24,10 +24,8 @@ A place to put things I want to share.
 # Robyn's Lair Shop - Product Design
 - https://www.RobynsLair.shop
 - Next Steps:
-- Done. Cleanup designs to have four of each. Finish Fyre products.
-- IP. Add a couple more new designs.
 - Order a test batch, one of each type in different designs I would use
-- Keep making designs. Add gothy stuff too.
+- Keep making designs. Add gothy and more LGBTQ stuff too.
 - Post on Facebook. Hint at on AZRaveFam
 - Consider FB ads
 
