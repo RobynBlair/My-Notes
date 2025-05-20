@@ -33,6 +33,7 @@ A place to put things I want to share.
 - Printful - https://www.printful.com/dashboard/product-templates
 - Robyn's Lair Shop - https://robynslair.shop/
 - Robyn's Lair Shopify - https://admin.shopify.com/
+- Retro Wave Neon Setting Sun Tutorial / Adobe Illustrator - https://www.youtube.com/watch?v=AAGUbhmOzAw
 - 10 Expert T-Shirt Design Hacks in 5 Minutes - https://www.youtube.com/watch?v=XPBCyFwqIgA
 -- Use Negative Space
 -- Typography
