@@ -78,9 +78,22 @@ A place to put things I want to share.
 - Acoustic Selection: https://www.youtube.com/@acousticselection
 - Acoustic Selection First 3 Chords - https://www.youtube.com/watch?v=d52MZJw-hIE
 
-# DJ
+# DJ/Soundcloud
 
 - https://dj.tribexr.com/
+- Robyn Blair - https://soundcloud.com/robyn-blair-451948331
+
+May 19, 2025 - Mix by Robyn Blair
+
+Harmjoy - We Keep Circling (BZ Edit)
+Chrom - In My World
+Ayria - My Revenge on the World
+Electrovot - Perfection
+Aesthetic Perfection - Forever
+Solitary Experiments - God Where Are You
+Blutengel - Bow Down
+
+Mixed Live on Rekordbox with Pioneer DDJ-FLX4-N and OBS Studio
   
 # Musical Instruments To Use
 - Pioneer DDJ-FLX4
