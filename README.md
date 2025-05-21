@@ -33,11 +33,6 @@ Next Steps:
 Help:
 - Adobe Illustrator Youtube Playlist - https://www.youtube.com/watch?v=AAGUbhmOzAw&list=PL1WPLUANfMOMgT97TR6xf2pSmO17M1yVM
 - Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
-  
-Sites:
-- Printful - https://www.printful.com/dashboard/product-templates
-- Robyn's Lair Shop - https://robynslair.shop/
-- Robyn's Lair Shopify - https://admin.shopify.com/
 - Retro Wave Neon Setting Sun Tutorial / Adobe Illustrator - https://www.youtube.com/watch?v=AAGUbhmOzAw
 - 10 Expert T-Shirt Design Hacks in 5 Minutes - https://www.youtube.com/watch?v=XPBCyFwqIgA
 -- Use Negative Space
@@ -63,6 +58,11 @@ Sites:
 -- Doodles/Naive Style Design
 - The Onlu Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
+
+Sites:
+- Printful - https://www.printful.com/dashboard/product-templates
+- Robyn's Lair Shop - https://robynslair.shop/
+- Robyn's Lair Shopify - https://admin.shopify.com/
 
 
 # Guitar Lessons
