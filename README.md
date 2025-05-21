@@ -29,6 +29,9 @@ A place to put things I want to share.
 - Post on Facebook. Hint at on AZRaveFam
 - Consider FB ads
 
+- Help:
+-- Adobe Illustrator Youtube Playlist - https://www.youtube.com/watch?v=AAGUbhmOzAw&list=PL1WPLUANfMOMgT97TR6xf2pSmO17M1yVM
+
 - Sites:
 - Printful - https://www.printful.com/dashboard/product-templates
 - Robyn's Lair Shop - https://robynslair.shop/
