@@ -134,7 +134,7 @@ Mixed Live on Rekordbox with Pioneer DDJ-FLX4-N and OBS Studio
 
 Grammar:
 - https://www.youtube.com/watch?v=yBuq-QFT3_8
-- Indicative vs subjunctive mood
+- Indicative vs subjunctive mood - https://www.youtube.com/watch?v=RborA9un2p0
 - Cognates
   -- tion to ción
   -- to confront - confrontar
