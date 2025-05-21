@@ -132,6 +132,36 @@ Mixed Live on Rekordbox with Pioneer DDJ-FLX4-N and OBS Studio
 - Stephen King - Stories in the dark
 - Photo translate app $40
 
+Grammar:
+- https://www.youtube.com/watch?v=yBuq-QFT3_8
+- Indicative vs subjunctive mood
+- Cognates
+  -- tion to ción
+  -- to confront - confrontar
+  -- to combine - combinar
+  -- to simplify - simplificar
+- sentence starters
+  -- poder (to be able to) puedo/puedes
+  -- querer (to want) queiro/quieres
+  -- tener que (to have to) tengo que/tienes que
+- sentence fragments
+  -- ?Sabes que? (You know what)
+  -- ?Creo que (I think that)
+  -- ?Que tal si (how about)
+  -- a diferencia de (unlike)
+  -- de acuerdo de (in agreement with)
+  -- a punto de (on the vergo of)
+  -- por mi cuenta (on my own)
+  -- a espaldas de (behind the back of)
+  -- en mi opinion (in my opinion)
+  -- dependiendo de (depending on)
+- trigger subjunctive mood every time
+  -- es mejor que (it's better than)
+  -- para que (so...intention/purpose)
+  -- antes de que (before)
+  -- tener miedo de que (to be afraid that)
+  
+
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
 - Dune Analytics Docs: https://github.com/duneanalytics/dune-docs
