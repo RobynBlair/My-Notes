@@ -23,16 +23,18 @@ A place to put things I want to share.
 
 # Robyn's Lair Shop - Product Design
 - https://www.RobynsLair.shop
-- Next Steps:
+- 
+Next Steps:
 - Order a test batch, one of each type in different designs I would use
 - Keep making designs. Add gothy and more LGBTQ stuff too.
 - Post on Facebook. Hint at on AZRaveFam
 - Consider FB ads
 
-- Help:
--- Adobe Illustrator Youtube Playlist - https://www.youtube.com/watch?v=AAGUbhmOzAw&list=PL1WPLUANfMOMgT97TR6xf2pSmO17M1yVM
-
-- Sites:
+Help:
+- Adobe Illustrator Youtube Playlist - https://www.youtube.com/watch?v=AAGUbhmOzAw&list=PL1WPLUANfMOMgT97TR6xf2pSmO17M1yVM
+- Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
+  
+Sites:
 - Printful - https://www.printful.com/dashboard/product-templates
 - Robyn's Lair Shop - https://robynslair.shop/
 - Robyn's Lair Shopify - https://admin.shopify.com/
@@ -48,7 +50,8 @@ A place to put things I want to share.
 -- Pop Culture References
 -- Create Optical Illusions
 -- Copyright-free Design Tools
-- 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc - Kittl
+  
+2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc - Kittl
 -- Minimal type
 -- Utilitarian
 -- Surrealism
@@ -61,7 +64,7 @@ A place to put things I want to share.
 -- Doodles/Naive Style Design
 - The Onlu Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
-- Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
+
 
 # Guitar Lessons
 - Marty Music Free Courses - https://www.martymusic.com/free-courses
