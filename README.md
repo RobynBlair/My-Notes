@@ -160,6 +160,11 @@ Grammar:
   -- para que (so...intention/purpose)
   -- antes de que (before)
   -- tener miedo de que (to be afraid that)
+- spacial relationsships
+  -- cerca de (near)
+  -- far
+  -- on top of
+  -- around,  
   
 
 # Dune Analytics
