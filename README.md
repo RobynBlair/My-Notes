@@ -22,7 +22,11 @@ A place to put things I want to share.
 - Rekordbox and Soundcloud experiments
 
 # Robyn's Lair Shop - Product Design
-- https://www.RobynsLair.shop
+
+Sites:
+- Printful - https://www.printful.com/dashboard/product-templates
+- Robyn's Lair Shop - https://robynslair.shop/
+- Robyn's Lair Shopify - https://admin.shopify.com/
   
 Next Steps:
 - Order a test batch, one of each type in different designs I would use
@@ -59,10 +63,6 @@ Help:
 - The Onlu Logo Design Guide You’ll EVER Need (2025 Edition) - https://www.youtube.com/watch?v=2RO44hoGdlE - Satori Graphics
 -- Four golden rules (Simplicity, Versatility, motion, adapt to backgrounds, Memorability, shapes and colors first then details, Scalability)
 
-Sites:
-- Printful - https://www.printful.com/dashboard/product-templates
-- Robyn's Lair Shop - https://robynslair.shop/
-- Robyn's Lair Shopify - https://admin.shopify.com/
 
 
 # Guitar Lessons
