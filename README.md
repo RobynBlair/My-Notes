@@ -50,8 +50,7 @@ Sites:
 -- Pop Culture References
 -- Create Optical Illusions
 -- Copyright-free Design Tools
-  
-2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc - Kittl
+- 2025 Graphic Design Trends - https://www.youtube.com/watch?v=uuzDb3E2qlc - Kittl
 -- Minimal type
 -- Utilitarian
 -- Surrealism
