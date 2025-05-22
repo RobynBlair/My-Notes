@@ -165,7 +165,10 @@ Grammar:
   -- far
   -- on top of
   -- around,  
-  
+
+# Blazor
+- Radzen Blazor - https://blazor.radzen.com/?theme=material3
+- https://blazor.radzen.com/docs/api/
 
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
