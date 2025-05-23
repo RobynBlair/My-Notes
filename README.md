@@ -185,6 +185,7 @@ Grammar:
 
 # Digital Nomad
 - https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/high-skilled-workers.html
+- The Move to Mexico Bible https://www.amazon.com/Move-Mexico-Bible-Sonia-Diaz/dp/1719952914
 
 # MF Lane
 - Process
