@@ -191,8 +191,6 @@ Grammar:
 - Process
 - Consistency
 
-# Document on YouTube
-
 # Apps
 - Finch
 
