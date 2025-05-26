@@ -105,8 +105,8 @@ Mixed Live on Rekordbox with Pioneer DDJ-FLX4-N and OBS Studio
   
 # Musical Instruments To Use
 - Pioneer DDJ-FLX4
-- Gretch guitar
 - Ibanez guitar
+- Gretch guitar (get buzz looked at)
 - Hand drum
 - 88 key MIDI keyboard
 - Mouth organ
