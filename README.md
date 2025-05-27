@@ -10,10 +10,10 @@ A place to put things I want to share.
 - https://www.SandAngel.com
 - https://www.SandAngel.com/resume.txt
 - https://www.Bigrex.com
+- https://dot.cards/robynblair
 - https://www.RobynsLair.com
 - https://www.RobynsLair.shop
 - https://soundcloud.com/robyn-blair-451948331
-- https://dot.cards/robynblair
 
 # Current Projects
 - Planning Big Rex Staffing website project
