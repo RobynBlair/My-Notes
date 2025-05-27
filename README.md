@@ -30,6 +30,7 @@ Sites:
   
 Next Steps:
 - Order a test batch, one of each type in different designs I would use
+- Waiting on coffee cup to be delivered
 - Keep making designs. Add gothy and more LGBTQ stuff too.
 - Post on Facebook. Hint at on AZRaveFam
 - Consider FB ads
