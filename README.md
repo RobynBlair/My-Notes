@@ -91,19 +91,7 @@ Help:
 - Soundcloud Playlists - https://www.RobynsLair.com/soundcloudplaylists.html
 - https://www.di.fm/shows/voices-of-trance
 - https://tranceaddict.com/
-
-May 19, 2025 - Mix by Robyn Blair
-
-Harmjoy - We Keep Circling (BZ Edit)
-Chrom - In My World
-Ayria - My Revenge on the World
-Electrovot - Perfection
-Aesthetic Perfection - Forever
-Solitary Experiments - God Where Are You
-Blutengel - Bow Down
-
-Mixed Live on Rekordbox with Pioneer DDJ-FLX4-N and OBS Studio
-  
+ 
 # Musical Instruments To Use
 - Pioneer DDJ-FLX4
 - Ibanez guitar
