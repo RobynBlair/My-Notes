@@ -164,6 +164,7 @@ Grammar:
 
 # GitHub Copilot
 - Work on learning more about how it works
+- https://app.pluralsight.com/search/?q=github%20copilot&m_sort=relevance&query_id=60dd9f03-7f17-4bee-aeed-24fa58ce0b37&is_auto_suggested=true&source=autocomplete
 
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
