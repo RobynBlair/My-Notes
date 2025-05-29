@@ -162,6 +162,9 @@ Grammar:
 - https://blazor.radzen.com/docs/api/
 - https://blazor.radzen.com/get-started
 
+# GitHub Copilot
+- Work on learning more about how it works
+
 # Dune Analytics
 - Dune Analytics: https://github.com/duneanalytics
 - Dune Analytics Docs: https://github.com/duneanalytics/dune-docs
