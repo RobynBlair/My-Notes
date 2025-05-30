@@ -113,6 +113,7 @@ Help:
 - Boss Looper
 - Audio interface
 - Guitar pedal
+- Musical windchimes
 
 # Spanish
 - https://www.dreamingspanish.com/teachers
