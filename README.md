@@ -44,6 +44,7 @@ Help:
 - Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
 - Retro Wave Neon Setting Sun Tutorial / Adobe Illustrator - https://www.youtube.com/watch?v=AAGUbhmOzAw
 - 10 Expert T-Shirt Design Hacks in 5 Minutes - https://www.youtube.com/watch?v=XPBCyFwqIgA
+- Transgender flag color codes: https://www.flagcolorcodes.com/transgender
 -- Use Negative Space
 -- Typography
 -- Gradients
