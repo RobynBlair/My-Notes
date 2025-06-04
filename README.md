@@ -21,6 +21,9 @@ A place to put things I want to share.
 - Robyn's Lair - Daily product designs
 - Rekordbox and Soundcloud experiments
 
+# Marketing
+- How to Grow Your Business SO Fast in 2025 It Feels ILLEGAL - https://www.youtube.com/watch?v=HxEQCHpZzHk
+
 # Robyn's Lair Shop - Product Design
 
 Sites:
