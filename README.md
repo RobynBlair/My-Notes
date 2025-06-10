@@ -123,6 +123,7 @@ Help:
 # Spanish
 - https://www.dreamingspanish.com/teachers
 - Mateo & Lisanna - https://www.youtube.com/@MateoLisanna/
+- My Daily Spanish - https://www.youtube.com/@holamydailyspanish
 - https://lingopie.com/app/catalog/spanish
 - Solito
 - Grammer books
