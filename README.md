@@ -167,6 +167,7 @@ Grammar:
 - Radzen Blazor - https://blazor.radzen.com/?theme=material3
 - https://blazor.radzen.com/docs/api/
 - https://blazor.radzen.com/get-started
+- Build web apps with Blazor - https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website
 
 # GitHub Copilot
 - Work on learning more about how it works
