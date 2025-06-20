@@ -130,6 +130,10 @@ Help:
 - Graphical vocabulary
 - Stephen King - Stories in the dark
 - Photo translate app $40
+- https://www.gutenberg.org/ebooks/search/?query=spanish&start_index=26
+- https://www.gutenberg.org/cache/epub/15353/pg15353.txt
+- https://www.gutenberg.org/cache/epub/22065/pg22065.txt
+- https://chromewebstore.google.com/detail/mouse-tooltip-translator/hmigninkgibhdckiaphhmbgcghochdjc?hl=en-US&utm_source=ext_sidebar
 
 Grammar:
 - https://www.youtube.com/watch?v=yBuq-QFT3_8
@@ -170,6 +174,14 @@ Grammar:
 - https://blazor.radzen.com/docs/api/
 - https://blazor.radzen.com/get-started
 - Build web apps with Blazor - https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website
+
+# Blazor Tutorials
+- https://dotnet.microsoft.com/en-us/learn/front-end-web-dev?step=intro
+- https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXNZX1Q8rB-5xgTSKR8qA5k
+- https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website
+- https://learn.microsoft.com/en-us/aspnet/core/blazor/components/?view=aspnetcore-9.0
+- https://learn.microsoft.com/en-us/training/paths/build-web-apps-with-blazor/?WT.mc_id=dotnet-35129-website
+- https://learn.microsoft.com/en-us/training/modules/interact-with-data-blazor-web-apps/
 
 # GitHub Copilot
 - Work on learning more about how it works
