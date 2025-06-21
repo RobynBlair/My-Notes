@@ -124,6 +124,7 @@ Help:
 - https://www.dreamingspanish.com/teachers
 - Mateo & Lisanna - https://www.youtube.com/@MateoLisanna/
 - My Daily Spanish - https://www.youtube.com/@holamydailyspanish
+- https://www.youtube.com/watch?v=CE7N_8rHiiQ - Learn 2000 Spanish Words in 3 Hours | Full Bilingual Story for Beginners
 - https://lingopie.com/app/catalog/spanish
 - Solito
 - Grammer books
