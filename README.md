@@ -121,6 +121,15 @@ Help:
 - Guitar pedal
 - Musical windchimes
 
+# Photography
+- Canon Mirrorless R6 Full Frame
+- Canon 24-105L f4
+- Canon RF24-50 f4.5-6.3 IS STM (kit)
+- PatchMaster shutter release
+- Yonunuo RF-603C radio triggers
+- Yongnuo YN560-II Manual Speedlite
+- Canon 430EX II Speedlite
+
 # Spanish
 - https://www.dreamingspanish.com/teachers
 - Mateo & Lisanna - https://www.youtube.com/@MateoLisanna/
