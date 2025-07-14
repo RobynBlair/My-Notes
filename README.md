@@ -125,6 +125,9 @@ Help:
 - Canon Mirrorless R6 Full Frame
 - Canon 24-105L f4
 - Canon RF24-50 f4.5-6.3 IS STM (kit)
+- TTartisan 10mm F2
+- TTartisan 50mm F1.4 Tilt Shift
+- TTartisan 75mm F1.5
 - PatchMaster shutter release
 - Yonunuo RF-603C radio triggers
 - Yongnuo YN560-II Manual Speedlite
