@@ -128,6 +128,7 @@ Help:
 - TTartisan 10mm F2
 - TTartisan 50mm F1.4 Tilt
 - TTartisan 75mm F1.5
+- Fotodiox Til/Shift Adapter - RF to EOS adapter with M42 adapter rings
 - PatchMaster shutter release
 - Yonunuo RF-603C radio triggers
 - Yongnuo YN560-II Manual Speedlite
