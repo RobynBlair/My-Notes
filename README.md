@@ -125,9 +125,10 @@ Help:
 - Canon Mirrorless R6 Full Frame
 - Canon 24-105L f4
 - Canon RF24-50 f4.5-6.3 IS STM (kit)
-- TTartisan 10mm F2
-- TTartisan 50mm F1.4 Tilt
-- TTartisan 75mm F1.5
+- TTArtisan 10mm F2
+- TTArtisan 50mm F1.4 Tilt
+- TTArtisan 75mm F1.5
+- TTArtisan 100m F2.8
 - Fotodiox Til/Shift Adapter - RF to EOS adapter with M42 adapter rings
 - PatchMaster shutter release
 - Yonunuo RF-603C radio triggers
