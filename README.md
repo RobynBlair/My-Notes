@@ -131,8 +131,8 @@ Help:
 - TTArtisan 100m F2.8 (M42)
 - Fotodiox Til/Shift Adapter - RF to EF adapter with M42 adapter rings
 - Mamiya Sekor 55mm F1.8 (M42)
-- Mamiya Sekor 135mm f2.8 (M42)
-- Tamron 80-210mm f3.8-f4.0 (M42)
+- Mamiya Sekor 135mm F2.8 (M42)
+- Tamron 80-210mm F3.8-4.0 (M42)
 - PatchMaster shutter release
 - Yonunuo RF-603C radio triggers
 - Yongnuo YN560-II Manual Speedlite
