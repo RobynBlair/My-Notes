@@ -39,6 +39,7 @@ Next Steps:
 - Consider FB ads
 
 Help:
+- Colors - https://www.figma.com/colors/
 - Create Editable Text Gradient - https://www.youtube.com/watch?v=K3Ry92bJbSY
 - Adobe Illustrator Youtube Playlist - https://www.youtube.com/watch?v=AAGUbhmOzAw&list=PL1WPLUANfMOMgT97TR6xf2pSmO17M1yVM
 - Make a Retro T Shirt with Sublimation | Ride the Retro Wave - https://www.youtube.com/watch?v=id1yTv8ZcdU
